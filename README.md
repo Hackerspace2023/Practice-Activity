@@ -28,7 +28,7 @@ Contribute every thing you Practice in last few days 🚀
 
 - [@Prashant](https://www.github.com/Prashant786Anand)
 
--[@Anushka](https://www.github.com/AnushkaBanerjee)
+- [@Anushka](https://www.github.com/AnushkaBanerjee)
 
 
 - [@Ritik](https://www.github.com/thisissinghji)
