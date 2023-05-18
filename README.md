@@ -71,10 +71,6 @@ Here are some related projects
 [Awesome README](https://github.com/matiassingers/awesome-readme)
 
 
-## Feedback
-
-If you have any feedback, please reach out to us at arnabmanna203@gmail.com
-
 Color Reference
 
 | Color             | Hex                                                                |
